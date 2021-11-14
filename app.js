@@ -93,7 +93,6 @@ function delete1(toDo, expresion) {
 
 //
 
-
 switch (procesType) {
     case 'add':
         add(toDo, expresion)
